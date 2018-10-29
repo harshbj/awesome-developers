@@ -167,13 +167,6 @@
 		"github": "harshil1712",
 		"email": "ghagrawal17@gmail.com"
 	},
-  {
-		"name": "Bhavikk",
-		"company": "-",
-		"skills": ["javascript", "php"],
-		"city": "mumbai",
-		"github": "bhavikk",
-  },
 	{
 		"name": "Jamie Burnip",
 		"company": "Web Developer @ Opia Ltd",
@@ -437,5 +430,12 @@
 		"city": "Mexico",
 		"github": "msmtotti",
 		"email": ""
+	}
+  	{
+		"name": "harsh",
+		"company": "ForEverLopp",
+		"skills": ["Javascript", "ReactJS"],
+		"city": "mumbai",
+		"github": "harshbj",
 	}
 ]
