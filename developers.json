@@ -374,6 +374,13 @@
 		"city": "Pune",
 		"github": "rohitbhalke",
 		"email": "rohitbhalke@gmail.com"
+	},{
+		"name": "Harsh Patel",
+		"company": "Student",
+		"skills": ["Android", "PHP", "Spring MVC", "Struts"],
+		"city": "Mumbai",
+		"github": "hbjas77",
+		"email": "hbjas77@gmail.com"
 	},
 	{
 		"name": "Rob",
